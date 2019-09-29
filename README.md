@@ -1,2 +1,2 @@
 # SLAM-paper
-SLAM paper recommended by Haotian
+SLAM paper recommended by Haotian.
